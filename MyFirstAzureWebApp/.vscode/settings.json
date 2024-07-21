@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d6b97cc3-1967-45de-a9cb-a5858c62d035/resourceGroups/cacmis-rgmyfirstazurewebapp/providers/Microsoft.Web/sites/cacmis-myfirstazurewebapp"
+}
